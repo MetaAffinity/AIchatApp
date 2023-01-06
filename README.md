@@ -2,7 +2,7 @@ We are excited to introduce ChatGPT to get users’ feedback and learn about its
 During the research preview, usage of ChatGPT is free. Try it now at chat.openai.com.
 # ChatGPT: Optimizing Language Models for Dialogue
 ## This Repository is owned by OpenAI (Artificial intelligence company)
-This Respository is not updated with the new releases. But don't worry about this you can still make your own!!! AI app :)
+This Repository is not updated with the new releases. But don't worry about this you can still make your own!!! AI app :)
 Tutorial is available to help you how you can develop. you can download the previous code pack from metaaffinity.net/ai
 # Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
 ![Open AI CodeGPT](https://metaaffinity.net/ai/developaiscreen.jpg)
