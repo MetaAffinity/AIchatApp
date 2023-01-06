@@ -1,3 +1,5 @@
+ChatGPT is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3.5 family of large language models, and is fine-tuned with both supervised and reinforcement learning techniques.
+
 We are excited to introduce ChatGPT to get users’ feedback and learn about its strengths and weaknesses. 
 During the research preview, usage of ChatGPT is free. Try it now at chat.openai.com.
 # ChatGPT: Optimizing Language Models for Dialogue
