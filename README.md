@@ -5,7 +5,7 @@ During the research preview, usage of ChatGPT is free. Try it now at chat.openai
 # ChatGPT: Optimizing Language Models for Dialogue
 We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
 
-# Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
+# Build and Deploy Your Own ChatGPT AI Application
 ![Open AI CodeGPT](https://metaaffinity.net/ai/developaiscreen.jpg)
 ![Open AI CodeGPT](https://metaaffinity.net/ai/chataipreview.png)
 ======== After owned by OpenAI =========
